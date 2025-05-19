@@ -1,0 +1,37 @@
+*{
+  margin: 0;
+  padding:0;
+  box-sizing:border-box;
+}
+body{
+  font-family:Arial, Helvetica, sans-serif;
+}
+.barra-examen{
+  background-color: rgb(16, 156, 109) !important
+}
+.navbar-brand{
+  font-weight:bold;
+}
+
+.contenido-hero {
+    height: 100vh;
+    color: rgb(255, 255, 255);
+    flex-direction: column;
+    justify-content:space-around;
+    padding: 0 40px;
+    background: url(/img/imagen.jpg) center center / cover no-repeat;
+    display: flex;
+    }
+    
+     
+.texto {
+  margin: 0 auto 10px;
+      max-width: 700px;
+      
+    }
+.footer{
+  height: 70px;
+  color:rgb(51, 222, 219);
+  background-color: rgb(66, 57, 237);
+  text-align: justify;
+}
